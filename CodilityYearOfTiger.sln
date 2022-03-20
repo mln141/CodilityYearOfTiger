@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodilityYearOfTiger", "CodilityYearOfTiger.csproj", "{13A7A075-8CE1-40D8-BBFB-FC0EFC5E4E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodilityYearOfTigerTest", "..\CodilityYearOfTigerTest\CodilityYearOfTigerTest.csproj", "{0F7F884D-3E1D-4E23-8235-E22191DA3C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A7A075-8CE1-40D8-BBFB-FC0EFC5E4E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A7A075-8CE1-40D8-BBFB-FC0EFC5E4E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A7A075-8CE1-40D8-BBFB-FC0EFC5E4E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A7A075-8CE1-40D8-BBFB-FC0EFC5E4E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7F884D-3E1D-4E23-8235-E22191DA3C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7F884D-3E1D-4E23-8235-E22191DA3C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7F884D-3E1D-4E23-8235-E22191DA3C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7F884D-3E1D-4E23-8235-E22191DA3C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2A8545D-AF9B-4AC6-B18B-3DDD0164C513}
+	EndGlobalSection
+EndGlobal
